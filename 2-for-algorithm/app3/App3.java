@@ -1,4 +1,6 @@
-public class app3 {
+package app3;
+
+public class App3 {
     public static void main(String[] args) {
         // for (int i = 5; i >= 1; i--) {
 

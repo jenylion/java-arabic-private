@@ -1,6 +1,8 @@
 import jdk.javadoc.internal.doclets.formats.html.resources.standard;
 
-public class app4 {
+package app4;
+
+public class App4 {
     public static void main(String[] args) {
 
         for (int i = 5; i <= 15; i++) {
